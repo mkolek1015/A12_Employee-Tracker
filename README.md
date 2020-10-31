@@ -3,7 +3,7 @@
   ## Assignment 12 Employee Tracker
 
   ## Description
-  As a business owner
+  As a business owner I want to be able to track my employees and managers more easily. So I want to have an easy user interface that where I can quickly access all my employees and change roles or departments as employees come and go. 
 
   # Table of Contents
   *  Installation 
